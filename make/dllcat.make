@@ -23,6 +23,7 @@ projects[views][version] = "3.13"
 ; Please fill the following out. Type may be one of get, git, bzr or svn,
 ; and url is the url of the download.
 projects[dll_cat][download][type] = "git"
+projects[dll_cat][type] = "module"
 projects[dll_cat][download][url] = "https://github.com/OULibraries/dll_cat.git"
 
 
